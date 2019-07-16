@@ -1,3 +1,4 @@
+/*
 链接：https://www.nowcoder.com/questionTerminal/3a3577b9d3294fb7845b96a9cd2e099c
 来源：牛客网
 
@@ -32,6 +33,8 @@
 在寻找该问题的求解方法时，应先在草稿纸上把所有可能的情况列一遍就能够找到规律.
 
 解答：
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
