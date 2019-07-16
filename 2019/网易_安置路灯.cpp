@@ -49,8 +49,8 @@ int main() {
         int pos = 0;
         while(pos < length) {
             if(str[pos] == '.') {
-				ans++;
-				pos += 3;
+		ans++;
+		pos += 3;
 			}
             else {
                 pos++;
